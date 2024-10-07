@@ -11,3 +11,7 @@ Applied timeseries forecasting on daily female birth in California dataset.
 3) Sentiment Analysis on Twitter Data
 
 Used TextBlob for sentiment analysis.
+
+4) Sklearn Decision Tree pipeline
+
+Demo of a sklearn classifier pipeline
