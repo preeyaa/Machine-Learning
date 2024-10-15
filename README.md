@@ -15,3 +15,5 @@ Used TextBlob for sentiment analysis.
 4) Sklearn Decision Tree pipeline
 
 Demo of a sklearn classifier pipeline
+
+5) A GenAI (Gemini) Food calories calculator
