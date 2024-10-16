@@ -19,3 +19,5 @@ Demo of a sklearn classifier pipeline
 5) A GenAI (Gemini) Food calories calculator
 
 6) A classification task for duplicate analyser.
+
+7) Topic modelling on train reviews.
