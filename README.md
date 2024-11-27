@@ -21,3 +21,5 @@ Demo of a sklearn classifier pipeline
 6) A classification task for duplicate analyser.
 
 7) Topic modelling on train reviews.
+   
+8) Predict which private users are parking for business purposes based on their parking behavior
